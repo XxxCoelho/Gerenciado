@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1667048466 source:d:\programacao_c\pim\gerenciador\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	"cadcliente.h"
+
+1668620911 d:\programacao_c\pim\gerenciador\cadcliente.h
+
+1669152424 source:d:\programacao_c\pim\gerenciador\cadcliente.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"cadcliente.h"
+
+1669153543 source:d:\programacao_c\pim\gerenciador\cadfuncionario.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"cadfuncionario.h"
+
+1668987682 d:\programacao_c\pim\gerenciador\cadfuncionario.h
+
+1669153398 source:d:\programacao_c\pim\gerenciador\main_2.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	"cadfuncionario.h"
+	"cadcliente.h"
+
